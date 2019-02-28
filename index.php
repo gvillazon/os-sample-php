@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>';
- $servername = "127.0.0.1";
+ $servername = "172.30.16.179";
  $username = "gvillazon";
  $password = "interval";
  $dbname = "db";
